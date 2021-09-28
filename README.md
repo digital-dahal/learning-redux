@@ -1,3 +1,3 @@
 # Learning Redux
-![Screenshot from 2021-09-28 11-25-53](https://user-images.githubusercontent.com/63900087/135029844-862ef544-10c9-4b41-85ae-fb77e4a4e123.png)
-![Screenshot from 2021-09-28 11-26-07](https://user-images.githubusercontent.com/63900087/135029851-8d6060c6-6217-4bf0-85da-59c500bb1a63.png)
+![Screenshot from 2021-09-28 11-27-56](https://user-images.githubusercontent.com/63900087/135029927-a3d3f66a-aa11-493a-a23e-98049724ab63.png)
+![Screenshot from 2021-09-28 11-26-07](https://user-images.githubusercontent.com/63900087/135029934-3c7de232-8196-4bf7-b575-8d2174aaaf3c.png)
